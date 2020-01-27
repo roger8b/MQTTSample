@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.vertx:vertx-mqtt:3.8.5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-mqtt/3.8.5/94957b94b630fecd61996d53ecfe2a37e52bbe56/vertx-mqtt-3.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-mqtt/3.8.5/c7e6c8f3c64f2494e73b62db7c47603901214e11/vertx-mqtt-3.8.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-mqtt/3.8.5/c0825a378d63fc89f63c59eeb03ae0732ad765a6/vertx-mqtt-3.8.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
